@@ -5,11 +5,11 @@
 
         console.log("app.js is working, have a nice day!")
         angular.module(
-            'my_Assignment1',
+            'LunchCheck',
             []
         )
         .controller(
-            'My_Assignment1_Controller',
+            'LunchCheckController',
             function ($scope) {
                 $scope.TestMsg = "AngularJS is working, change this text to check it, have a nice day!"
             }

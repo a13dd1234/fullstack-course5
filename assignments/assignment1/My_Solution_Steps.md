@@ -35,3 +35,7 @@ curl https://code.angularjs.org/1.7.8/angular.min.js.map -O
     b) Add the "angular.min.js" file to my index.html page
 
     c) Add a test code to check if binding is working!
+
+5) My Solution:
+
+    a)
