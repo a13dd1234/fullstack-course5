@@ -38,4 +38,6 @@ curl https://code.angularjs.org/1.7.8/angular.min.js.map -O
 
 5) My Solution:
 
-    a)
+    a) Bind the input box "lunch-menu" to the $scope
+
+

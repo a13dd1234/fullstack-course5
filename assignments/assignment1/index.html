@@ -33,7 +33,8 @@
                     id="lunch-menu"
                     type="text"
                     placeholder="list comma separated dishes you usually have for lunch"
-                    class="form-control">
+                    class="form-control"
+                    ng-model="lunchMenu">
             </div>
 
 				<div class="form-group">
@@ -42,6 +43,7 @@
 
 				<div class="form-group message">
 					<!-- Your message can go here. -->
+                    {{lunchMenu}}
 				</div>
 
                 <div class="form-group">
